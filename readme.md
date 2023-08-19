@@ -4,7 +4,8 @@
 
 ```
 T2I_Layout
-../dict_gpt4.py   用于生成 gpt4版本的layout标注文件
+../dict_gpt4.py   用于生成 gpt4版本的layout标注文件，目前还在完善
+../dict_gpt4_import.py   目前已经生成好了的三种重要属性的layout标注生成文件。
 ../dict_human.py    用于生成人工版本的layout标注文件
 ../layout_read.py  用于读取并可视化 生成的标注文件
 ../layout_visual.py  在人工进行标注，或者检测单个文本上gpt4标注是否合适时，可以使用该文件进行单个文本的可视化
