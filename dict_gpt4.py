@@ -197,6 +197,6 @@ dicts = {
 # 'New York Skyline with \'Google Research Pizza Cafe\' written with fireworks on the sky.'
 }
 
-yaml_dir = 'annotations_gpt4.yaml'
+yaml_dir = 'annotations_gpt4_full.yaml'
 with open(yaml_dir, 'w', encoding='utf-8', ) as f:
     yaml.dump(dicts, f, encoding='utf-8', allow_unicode=True)

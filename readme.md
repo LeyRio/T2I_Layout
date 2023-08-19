@@ -39,3 +39,9 @@ locations for objects in a description, here are some assumptions or rules that 
 6.The coordinates of the object you provided are the range after dividing by 512, which is between 0 and 1
 ```
 
+# 注意事项
+目前gpt4的标注 仅仅完成了 三种重要属性的标注
+因此如果想要仅仅修改三种重要属性的标注，可以在dict_gpt4_import.py中进行修改
+dict_gpt4.py还在完善中
+只是需要注意，一旦在dict_gpt4_import.py中修改了，最后想要生成所有文本的标注，需要将dict_gpt4.py中也进行对应的修改，保证对齐
+
