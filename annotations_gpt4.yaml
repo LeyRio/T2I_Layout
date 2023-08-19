@@ -1,0 +1,731 @@
+A banana on the left of an apple:
+  a banana:
+  - - 0.1
+    - 0.2
+    - 0.3
+    - 0.8
+  an apple:
+  - - 0.4
+    - 0.2
+    - 0.6
+    - 0.8
+A bicycle on top of a boat:
+  a bicycle:
+  - - 0.3
+    - 0.1
+    - 0.7
+    - 0.4
+  a boat:
+  - - 0.1
+    - 0.5
+    - 0.9
+    - 0.7
+A black apple and a green backpack:
+  black apple:
+  - - 0.1
+    - 0.25
+    - 0.2
+    - 0.35
+  green backpack:
+  - - 0.2
+    - 0.3
+    - 0.8
+    - 0.8
+A black colored banana:
+  Black Banana:
+  - - 0.4
+    - 0.1
+    - 0.6
+    - 0.9
+A black colored car:
+  Black Car:
+  - - 0.1
+    - 0.2
+    - 0.9
+    - 0.8
+A black colored dog:
+  Black Dog:
+  - - 0.15
+    - 0.25
+    - 0.85
+    - 0.75
+A black colored sandwich:
+  black colored sandwich:
+  - - 0.2
+    - 0.35
+    - 0.8
+    - 0.65
+A blue bird and a brown bear:
+  blue bird:
+  - - 0.65
+    - 0.1
+    - 0.8
+    - 0.25
+  brown bear:
+  - - 0.1
+    - 0.5
+    - 0.9
+    - 0.9
+A blue colored dog:
+  Blue Dog:
+  - - 0.15
+    - 0.25
+    - 0.85
+    - 0.75
+A blue cup and a green cell phone:
+  blue cup:
+  - - 0.1
+    - 0.4
+    - 0.35
+    - 0.7
+  green cell phone:
+  - - 0.45
+    - 0.5
+    - 0.7
+    - 0.7
+A brown bird and a blue bear:
+  blue bear:
+  - - 0.1
+    - 0.5
+    - 0.9
+    - 0.9
+  brown bird:
+  - - 0.65
+    - 0.1
+    - 0.8
+    - 0.25
+A brown colored giraffe:
+  brown colored giraffe:
+  - - 0.35
+    - 0.05
+    - 0.65
+    - 0.95
+A car on the left of a bus:
+  a bus:
+  - - 0.333
+    - 0.25
+    - 1
+    - 0.75
+  a car:
+  - - 0
+    - 0.375
+    - 0.333
+    - 0.625
+A carrot on the left of a broccoli:
+  a broccoli:
+  - - 0.4
+    - 0.2
+    - 0.7
+    - 0.8
+  a carrot:
+  - - 0.1
+    - 0.2
+    - 0.3
+    - 0.8
+A cat on the left of a dog:
+  a cat:
+  - - 0.1
+    - 0.2
+    - 0.3
+    - 0.7
+  a dog:
+  - - 0.4
+    - 0.1
+    - 0.7
+    - 0.8
+A cat on the right of a tennis racket:
+  a cat:
+  - - 0.6
+    - 0.2
+    - 0.9
+    - 0.8
+  a tennis racket:
+  - - 0.1
+    - 0.2
+    - 0.5
+    - 0.8
+A couch on the left of a chair:
+  a chair:
+  - - 0.5
+    - 0.2
+    - 0.7
+    - 0.8
+  a couch:
+  - - 0.1
+    - 0.2
+    - 0.4
+    - 0.8
+A donut underneath a toilet:
+  a donut:
+  - - 0.417
+    - 0.5
+    - 0.583
+    - 0.666
+  a toliet:
+  - - 0.333
+    - 0
+    - 0.666
+    - 0.5
+A giraffe underneath a microwave:
+  a giraffe:
+  - - 0.4375
+    - 0.125
+    - 0.5625
+    - 0.875
+  microwave:
+  - - 0.375
+    - 0
+    - 0.625
+    - 0.125
+A green apple and a black backpack:
+  black backpack:
+  - - 0.2
+    - 0.3
+    - 0.8
+    - 0.8
+  green apple:
+  - - 0.1
+    - 0.25
+    - 0.2
+    - 0.35
+A green colored banana:
+  Green Banana:
+  - - 0.4
+    - 0.1
+    - 0.6
+    - 0.9
+A green cup and a blue cell phone:
+  blue cell phone:
+  - - 0.45
+    - 0.5
+    - 0.7
+    - 0.7
+  green cup:
+  - - 0.1
+    - 0.4
+    - 0.35
+    - 0.7
+A hair drier underneath a sheep:
+  a hair drier:
+  - - 0.375
+    - 0.333
+    - 0.625
+    - 0.458
+  a sheep:
+  - - 0.25
+    - 0
+    - 0.75
+    - 0.333
+A laptop on top of a teddy bear:
+  a laptop:
+  - - 0.25
+    - 0
+    - 0.75
+    - 0.25
+  a teddy bear:
+  - - 0.125
+    - 0.25
+    - 0.875
+    - 0.916
+A pink colored car:
+  Pink Car:
+  - - 0.1
+    - 0.2
+    - 0.9
+    - 0.8
+A pink colored giraffe:
+  pink colored giraffe:
+  - - 0.35
+    - 0.05
+    - 0.65
+    - 0.95
+A pizza on the right of a suitcase:
+  a pizza:
+  - - 0.5
+    - 0.2
+    - 0.9
+    - 0.8
+  a suitcase:
+  - - 0.1
+    - 0.2
+    - 0.4
+    - 0.8
+A red book and a yellow vase:
+  red book:
+  - - 0.1
+    - 0.6
+    - 0.6
+    - 0.8
+  yellow vase:
+  - - 0.65
+    - 0.45
+    - 0.8
+    - 0.85
+A red car and a white sheep:
+  red car:
+  - - 0.05
+    - 0.05
+    - 0.6
+    - 0.5
+  white sheep:
+  - - 0.65
+    - 0.2
+    - 0.9
+    - 0.4
+A red colored banana:
+  Red banana:
+  - - 0.4
+    - 0.1
+    - 0.6
+    - 0.9
+A red colored car:
+  Red Car:
+  - - 0.1
+    - 0.2
+    - 0.9
+    - 0.8
+A red colored dog:
+  Red Dog:
+  - - 0.15
+    - 0.25
+    - 0.85
+    - 0.75
+A sheep to the right of a wine glass:
+  a sheep:
+  - - 0.125
+    - 0.25
+    - 1
+    - 0.75
+  a wine glass:
+  - - 0
+    - 0.333
+    - 0.125
+    - 0.666
+A stop sign on the right of a refrigerator:
+  a refrigerator:
+  - - 0.1
+    - 0.2
+    - 0.5
+    - 0.8
+  a stop sign:
+  - - 0.6
+    - 0.2
+    - 0.9
+    - 0.8
+A tennis racket underneath a traffic light:
+  a tennis racket:
+  - - 0.417
+    - 0.25
+    - 0.583
+    - 0.75
+  a traffic light:
+  - - 0.4375
+    - 0
+    - 0.5625
+    - 0.25
+A train on top of a surfboard:
+  a surfboard:
+  - - 0.1
+    - 0.6
+    - 0.9
+    - 0.7
+  a train:
+  - - 0.3
+    - 0.2
+    - 0.7
+    - 0.4
+A white car and a red sheep:
+  red sheep:
+  - - 0.65
+    - 0.2
+    - 0.9
+    - 0.4
+  white car:
+  - - 0.05
+    - 0.05
+    - 0.6
+    - 0.5
+A white colored sandwich:
+  White colored sandwich:
+  - - 0.2
+    - 0.35
+    - 0.8
+    - 0.65
+A wine glass on top of a dog:
+  a dog:
+  - - 0.2
+    - 0.2
+    - 0.8
+    - 0.8
+  a wine glass:
+  - - 0.4
+    - 0.1
+    - 0.6
+    - 0.3
+A yellow book and a red vase:
+  red vase:
+  - - 0.65
+    - 0.45
+    - 0.8
+    - 0.85
+  yellow book:
+  - - 0.1
+    - 0.6
+    - 0.6
+    - 0.8
+A yellow colored giraffe:
+  yellow colored giraffe:
+  - - 0.35
+    - 0.05
+    - 0.65
+    - 0.95
+A zebra to the right of a fire hydrant:
+  a fire hydrant:
+  - - 0
+    - 0.375
+    - 0.125
+    - 0.625
+  a zebra:
+  - - 0.125
+    - 0.125
+    - 1
+    - 0.875
+A zebra underneath a broccoli:
+  a broccoli:
+  - - 0.4375
+    - 0
+    - 0.5625
+    - 0.125
+  a zebra:
+  - - 0.25
+    - 0.125
+    - 0.75
+    - 0.75
+An orange colored sandwich:
+  orange colored sandwich:
+  - - 0.2
+    - 0.35
+    - 0.8
+    - 0.65
+An umbrella on top of a spoon:
+  a spoon:
+  - - 0.4
+    - 0.4
+    - 0.6
+    - 0.6
+  an umbrella:
+  - - 0.3
+    - 0.1
+    - 0.7
+    - 0.4
+Five cars on the street:
+  a car:
+  - - 0.05
+    - 0.6
+    - 0.3
+    - 0.85
+  - - 0.55
+    - 0.6
+    - 0.8
+    - 0.85
+  - - 0.15
+    - 0.4
+    - 0.4
+    - 0.6
+  - - 0.6
+    - 0.35
+    - 0.85
+    - 0.55
+  - - 0.35
+    - 0.1
+    - 0.65
+    - 0.3
+Five dogs on the street:
+  a dog:
+  - - 0
+    - 0.375
+    - 0.2
+    - 0.875
+  - - 0.2
+    - 0.375
+    - 0.4
+    - 0.875
+  - - 0.4
+    - 0.375
+    - 0.6
+    - 0.875
+  - - 0.6
+    - 0.375
+    - 0.8
+    - 0.875
+  - - 0.8
+    - 0.375
+    - 1
+    - 0.875
+Four cars on the street:
+  a car:
+  - - 0.05
+    - 0.7
+    - 0.47
+    - 0.98
+  - - 0.53
+    - 0.7
+    - 0.95
+    - 0.98
+  - - 0.05
+    - 0.45
+    - 0.47
+    - 0.7
+  - - 0.53
+    - 0.45
+    - 0.95
+    - 0.7
+Four dogs on the street:
+  a dog:
+  - - 0.05
+    - 0.7
+    - 0.47
+    - 0.98
+  - - 0.53
+    - 0.7
+    - 0.95
+    - 0.98
+  - - 0.05
+    - 0.45
+    - 0.47
+    - 0.7
+  - - 0.53
+    - 0.45
+    - 0.95
+    - 0.7
+One car on the street:
+  a car:
+  - - 0.2
+    - 0.2
+    - 0.8
+    - 0.8
+One cat and one dog sitting on the grass:
+  a cat:
+  - - 0.55
+    - 0.45
+    - 0.75
+    - 0.65
+  a dog:
+  - - 0.1
+    - 0.35
+    - 0.55
+    - 0.75
+One cat and three dogs sitting on the grass:
+  a cat:
+  - - 0.15
+    - 0.2
+    - 0.45
+    - 0.6
+  a dog:
+  - - 0.5
+    - 0.2
+    - 0.75
+    - 0.45
+  - - 0.1
+    - 0.5
+    - 0.35
+    - 0.75
+  - - 0.55
+    - 0.55
+    - 0.8
+    - 0.8
+One cat and two dogs sitting on the grass:
+  a cat:
+  - - 0.35
+    - 0.45
+    - 0.55
+    - 0.65
+  a dog:
+  - - 0.05
+    - 0.3
+    - 0.35
+    - 0.75
+  - - 0.55
+    - 0.35
+    - 0.85
+    - 0.7
+One dog on the street:
+  a dog:
+  - - 0.2
+    - 0.2
+    - 0.8
+    - 0.8
+Three cars on the street:
+  a car:
+  - - 0.05
+    - 0.6
+    - 0.32
+    - 0.95
+  - - 0.34
+    - 0.6
+    - 0.66
+    - 0.95
+  - - 0.68
+    - 0.6
+    - 0.95
+    - 0.95
+Three cats and one dog sitting on the grass:
+  a cat:
+  - - 0.1
+    - 0.2
+    - 0.3
+    - 0.5
+  - - 0.35
+    - 0.25
+    - 0.55
+    - 0.55
+  - - 0.6
+    - 0.2
+    - 0.8
+    - 0.5
+  a dog:
+  - - 0.3
+    - 0.6
+    - 0.6
+    - 0.8
+Three cats and three dogs sitting on the grass:
+  a cat:
+  - - 0.1
+    - 0.1
+    - 0.3
+    - 0.4
+  - - 0.4
+    - 0.1
+    - 0.6
+    - 0.4
+  - - 0.7
+    - 0.1
+    - 0.9
+    - 0.4
+  a dog:
+  - - 0.1
+    - 0.5
+    - 0.3
+    - 0.7
+  - - 0.4
+    - 0.5
+    - 0.6
+    - 0.7
+  - - 0.7
+    - 0.5
+    - 0.9
+    - 0.7
+Three cats and two dogs sitting on the grass:
+  a cat:
+  - - 0.1
+    - 0.1
+    - 0.3
+    - 0.4
+  - - 0.4
+    - 0.1
+    - 0.6
+    - 0.4
+  - - 0.7
+    - 0.1
+    - 0.9
+    - 0.4
+  a dog:
+  - - 0.2
+    - 0.6
+    - 0.45
+    - 0.8
+  - - 0.55
+    - 0.6
+    - 0.8
+    - 0.8
+Three dogs on the street:
+  a dog:
+  - - 0.05
+    - 0.6
+    - 0.32
+    - 0.95
+  - - 0.34
+    - 0.6
+    - 0.66
+    - 0.95
+  - - 0.68
+    - 0.6
+    - 0.95
+    - 0.95
+Two cars on the street:
+  a car:
+  - - 0.05
+    - 0.6
+    - 0.45
+    - 0.9
+  - - 0.55
+    - 0.6
+    - 0.95
+    - 0.9
+Two cats and one dog sitting on the grass:
+  a cat:
+  - - 0.1
+    - 0.2
+    - 0.35
+    - 0.6
+  - - 0.45
+    - 0.25
+    - 0.7
+    - 0.65
+  a dog:
+  - - 0.3
+    - 0.6
+    - 0.6
+    - 0.8
+Two cats and three dogs sitting on the grass:
+  a cat:
+  - - 0.1
+    - 0.2
+    - 0.35
+    - 0.6
+  - - 0.45
+    - 0.25
+    - 0.7
+    - 0.65
+  a dog:
+  - - 0.2
+    - 0.6
+    - 0.45
+    - 0.85
+  - - 0.55
+    - 0.55
+    - 0.8
+    - 0.85
+  - - 0.75
+    - 0.35
+    - 0.9
+    - 0.6
+Two cats and two dogs sitting on the grass:
+  a cat:
+  - - 0.1
+    - 0.2
+    - 0.35
+    - 0.6
+  - - 0.45
+    - 0.25
+    - 0.7
+    - 0.65
+  a dog:
+  - - 0.2
+    - 0.6
+    - 0.45
+    - 0.85
+  - - 0.55
+    - 0.55
+    - 0.8
+    - 0.85
+Two dogs on the street:
+  a dog:
+  - - 0.05
+    - 0.6
+    - 0.45
+    - 0.9
+  - - 0.55
+    - 0.6
+    - 0.95
+    - 0.9
